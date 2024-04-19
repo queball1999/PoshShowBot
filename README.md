@@ -10,6 +10,8 @@ PoshShowBot offers an easy-to-use interface that automates the management of Pos
 - **Automation Efficiency**: Automate the repetitive tasks of managing a show, allowing you to focus on sales and customer interaction.
 
 - **Flexible Show Types**: Supports different types of shows, including auction-only and buy-now-only, tailored to your sales strategy.
+  
+- ** Customizable tags**: Supports defining up to 3 tags for each show.
 
 - **Scalability**: Ready to handle any show size, from a few items to dozens, without losing performance.
 
