@@ -15,8 +15,6 @@ PoshShowBot offers an easy-to-use interface that automates the management of Pos
 
 - **Future-Proof**: Ongoing updates will include automated messages, improved listing sorting, and the ability to stream with music, enhancing the show experience. I also plan to either make this into a standalone Python script, or merge it into [PoshmarkNursery](https://github.com/xzhou13/PoshmarkNursery). Either way, I will keep the .side files intact and build a parser to those environments as well.
 
-Experience an unparalleled level of privacy and security in your torrenting activities with NordTorrent, all while maintaining the ease and flexibility of qBittorrent's powerful features.
-
 ## 🚀 Quick Start
 
 1. **Clone the Repository:**
