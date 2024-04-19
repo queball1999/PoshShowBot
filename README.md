@@ -13,7 +13,7 @@ PoshShowBot offers an easy-to-use interface that automates the management of Pos
 
 - **Scalability**: Ready to handle any show size, from a few items to dozens, without losing performance.
 
-- **Future-Proof**: Ongoing updates will bring automated messages, improved listing sorting, and the ability to stream with music, enhancing the show experience.
+- **Future-Proof**: Ongoing updates will include automated messages, improved listing sorting, and the ability to stream with music, enhancing the show experience. I also plan to either make this into a standalone Python script, or merge it into [PoshmarkNursery](https://github.com/xzhou13/PoshmarkNursery). Either way, I will keep the .side files intact and build a parser to those environments as well.
 
 Experience an unparalleled level of privacy and security in your torrenting activities with NordTorrent, all while maintaining the ease and flexibility of qBittorrent's powerful features.
 
@@ -35,6 +35,8 @@ Experience an unparalleled level of privacy and security in your torrenting acti
    
 6. **Configure and Launch PoshShowBot:**
    Configure the settings according to your show requirements, then use the Selenium IDE to run the script, automating tasks within your PoshMark show.
+
+⚠ Warning ⚠: Be sure to sign into Poshmark in your browser. This will create the browser session needed for the bot. I hope to handle the sign-in process soon.
 
 ## 📖 Configuration
   Configuring PoshShowBot involves setting various parameters to tailor the bot to your specific needs. You can customize the following settings:
